@@ -1,0 +1,17 @@
+.sub-box,
+.box {
+    margin-left: 12px;
+}
+
+.box {
+    margin-top: 16px;
+}
+
+.title {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.sub-box a {
+    text-decoration: underline;
+}
